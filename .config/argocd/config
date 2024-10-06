@@ -1,0 +1,12 @@
+contexts:
+- name: 54.211.204.41:32746
+  server: 54.211.204.41:32746
+  user: 54.211.204.41:32746
+current-context: 54.211.204.41:32746
+servers:
+- grpc-web-root-path: ""
+  insecure: true
+  server: 54.211.204.41:32746
+users:
+- auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcmdvY2QiLCJzdWIiOiJhZG1pbjpsb2dpbiIsImV4cCI6MTcyODI4MjIwMCwibmJmIjoxNzI4MTk1ODAwLCJpYXQiOjE3MjgxOTU4MDAsImp0aSI6ImJmZWVhMGQ3LTIyYWQtNDNmNC04NmE1LTM4ZTk0Y2NlZTgxNSJ9.rdrj271w6SEaa7xJVvk_idC0sCywnvZuzT6d29XymQg
+  name: 54.211.204.41:32746
